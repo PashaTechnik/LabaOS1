@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/CLionProjects/laba11/LabaOS1/main.cpp
+cstdio
+-
+cstdint
+-
+malloc.h
+-
+cassert
+-
+
