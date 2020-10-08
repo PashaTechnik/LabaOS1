@@ -1,0 +1,3 @@
+C:\Users\laslo\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7319.72\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\LabaOS1.dir/objects.a
+F:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\LabaOS1.dir/objects.a @CMakeFiles\LabaOS1.dir\objects1.rsp
+F:\MinGW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\LabaOS1.dir/objects.a -Wl,--no-whole-archive  -o LabaOS1.exe -Wl,--out-implib,libLabaOS1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LabaOS1.dir\linklibs.rsp

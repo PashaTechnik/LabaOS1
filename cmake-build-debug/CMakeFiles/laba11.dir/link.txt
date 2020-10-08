@@ -1,0 +1,3 @@
+C:\Users\laslo\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7319.72\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\laba11.dir/objects.a
+F:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\laba11.dir/objects.a @CMakeFiles\laba11.dir\objects1.rsp
+F:\MinGW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\laba11.dir/objects.a -Wl,--no-whole-archive  -o laba11.exe -Wl,--out-implib,liblaba11.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\laba11.dir\linklibs.rsp

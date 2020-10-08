@@ -1,0 +1,3 @@
+F:/CLionProjects/laba11/LabaOS1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CLionProjects/laba11/LabaOS1/cmake-build-debug/CMakeFiles/LabaOS1.dir
+F:/CLionProjects/laba11/LabaOS1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
